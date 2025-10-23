@@ -22,6 +22,7 @@ public class LargestOf3Numbers {
 
         System.out.println("The largest of " + number1 + " & " + number2 + " & " + number3 + " is " + max);
 
+        input.close();
     }
 
 }

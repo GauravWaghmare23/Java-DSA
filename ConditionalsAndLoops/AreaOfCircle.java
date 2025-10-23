@@ -11,7 +11,8 @@ public class AreaOfCircle {
         float area = 0f;
 
         area = radius * (pi * pi);
-        System.out.println("The area of the circle is : "+area);
+        System.out.println("The area of the circle is : " + area);
 
+        input.close();
     }
 }

@@ -15,5 +15,6 @@ public interface LargestOf3Number2 {
         int max = Math.max(number3, Math.max(number1, number2));
         System.out.println("The largest of " + number1 + " & " + number2 + " & " + number3 + " is " + max);
 
+        input.close();
     }
 }

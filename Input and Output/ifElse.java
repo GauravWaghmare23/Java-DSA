@@ -15,6 +15,7 @@ public class ifElse {
             System.out.println("You are not Gaurav Waghmare");
         }
 
+        input.close();
     }
 }
 

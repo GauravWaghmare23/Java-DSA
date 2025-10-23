@@ -8,5 +8,6 @@ public class forLoop {
         for (int num = 1; num <= n; num += 1) {
             System.out.println(num + " : Hello, World!");
         }
+        input.close();
     }
 }

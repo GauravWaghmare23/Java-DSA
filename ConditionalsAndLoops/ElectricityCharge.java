@@ -52,7 +52,7 @@ public class ElectricityCharge {
         System.out.println("                   _________________________________________");
         System.out.println("                                     "+totalCharge);
 
-        
+        input.close();
 
     }
 }

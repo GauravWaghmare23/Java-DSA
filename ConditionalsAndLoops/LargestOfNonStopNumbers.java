@@ -21,5 +21,6 @@ public class LargestOfNonStopNumbers {
         }
         System.out.println("The largest of all the number is : " + max);
         System.out.println("The program is executed...........");
+        input.close();
     }
 }

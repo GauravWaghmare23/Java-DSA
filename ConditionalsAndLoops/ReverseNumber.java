@@ -18,5 +18,6 @@ public class ReverseNumber {
 
         System.out.println("The reverse number of  " + numbersAre + " is : " + newNumber);
 
+        input.close();
     }
 }

@@ -11,6 +11,8 @@ public class AreaOfTraingle {
         float area = 0;
 
         area = 0.5f* height * base;
-        System.out.println("The area of triangle is : "+ area);
+        System.out.println("The area of triangle is : " + area);
+        
+        input.close();
     }
 }

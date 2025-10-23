@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LineraSearch",
+            "request": "launch",
+            "mainClass": "searching.LineraSearch",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "LineraSearch",
+            "request": "launch",
+            "mainClass": "LineraSearch",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Input2",
+            "request": "launch",
+            "mainClass": "Input2",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Input",
+            "request": "launch",
+            "mainClass": "Input",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "SUM",
+            "request": "launch",
+            "mainClass": "Methods.SUM",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Greeting",
+            "request": "launch",
+            "mainClass": "Methods.Greeting",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "ArrayReverse",
+            "request": "launch",
+            "mainClass": "ArrayReverse",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListExample",
+            "request": "launch",
+            "mainClass": "ArrayListExample",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "Input2D",
+            "request": "launch",
+            "mainClass": "Input2D",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "Input",
+            "request": "launch",
+            "mainClass": "Input",
+            "projectName": "Java_a7c07b7c"
+        },
+        {
+            "type": "java",
+            "name": "SUM",
+            "request": "launch",
+            "mainClass": "Methods.SUM",
+            "projectName": "Java_b4a18026"
+        },
+        {
+            "type": "java",
+            "name": "Greeting",
+            "request": "launch",
+            "mainClass": "Methods.Greeting",
+            "projectName": "Java_b4a18026"
+        },
+        {
+            "type": "java",
             "name": "Occurence",
             "request": "launch",
             "mainClass": "Occurence",

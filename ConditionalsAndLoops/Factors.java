@@ -22,5 +22,6 @@ public class Factors {
             index++;
         }
 
+        input.close();
     }
 }

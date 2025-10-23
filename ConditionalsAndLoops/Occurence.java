@@ -20,6 +20,7 @@ public class Occurence {
             number = number / 10;
         }
 
-        System.out.println("The number of occurence of "+check+" in "+numbersAre+" is : "+count);
+        System.out.println("The number of occurence of " + check + " in " + numbersAre + " is : " + count);
+        input.close();
     }
 }

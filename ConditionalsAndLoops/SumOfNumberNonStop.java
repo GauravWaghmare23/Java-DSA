@@ -21,5 +21,6 @@ public class SumOfNumberNonStop {
         }
         System.out.println("The addition of all the number is : " + sum);
         System.out.println("The program is executed...........");
+        input.close();
     }
 }
